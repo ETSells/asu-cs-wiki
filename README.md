@@ -1,3 +1,5 @@
+This fork will be archived upon the merging of the patch into the main repo.
+
 # ASU CS Wiki
 
 <div align="center">
